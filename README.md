@@ -1,8 +1,8 @@
 ### Hello there!
 
-## I'm Johnny Fagerlin!
+I'm Johnny Fagerlin!
 
-# I am an aspiring Games Engineer
+I am an aspiring Games Engineer
 
 
 

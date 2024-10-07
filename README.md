@@ -2,6 +2,6 @@
 
 I'm Johnny Fagerlin!
 
-I am an aspiring Game Engineer with a passion for architecting and developing complex tasks within the gamespace.  I am best in C# and have experience with JavaScript and Python.  Beginning in the Spring 2024 semester I will be starting C++!
+I am an aspiring Simulations Engineer/Graphics Developer with a passion for architecting and developing complex programs within a graphical environment.  Implementing physics and working with cameras are some of my favorite systems to develop.  I am best in C/C#/C++, though I am also fluent in JavaScript.  Take a look into my projects to learn more about how I program!  My most recent projects are AshEngine and PrimroseEngine.
 
 Reach out to me at JohnnyFagerlin@gmail.com!!
